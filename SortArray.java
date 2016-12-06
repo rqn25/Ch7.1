@@ -1,4 +1,4 @@
-x
+
 public class SortArray {
 
 	public static String [] sort(String[] numbers) {
