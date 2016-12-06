@@ -8,7 +8,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class Sortx extends Application {
+public class Sort extends Application {
 
 	public static void main(String[] args) {
 		launch(args);
